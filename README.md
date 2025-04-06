@@ -65,5 +65,5 @@
 
 
 <p align="center">
-  <img src="https://gotem.firststock.fr/" alt="Activity Graph" />
+  <img src="https://gotem.firststock.fr" alt="Activity Graph" />
 </p> 
