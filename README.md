@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm GOT'EM 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=45&lines=Reseller+%7C+Developer+%7C+Business+Student;Passionate+about+coding+and+reselling;Always+learning+and+creating..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0001ff&center=true&vCenter=true&width=800&height=45&lines=Reseller+%7C+Developer+%7C+Business+Student;Passionate+about+coding+and+reselling;Always+learning+and+creating..." />
 </p>
 
 
