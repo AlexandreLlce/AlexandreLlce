@@ -11,7 +11,7 @@
 - 🎓 20-year-old business student  
 - 💼 Passionate about coding and reselling  
 - 🛠️ Staff member at a French cook group, providing valuable info  
-- 📦 Creator of **First Stock**, an app to manage stock efficiently and quickly  
+- 📦 Creator of [**First Stock**](https://whop.com/first-stock/)), an app to manage stock efficiently and quickly  
 
 ---
 
@@ -56,6 +56,14 @@
 
 ### 📫 Contact Me
 
+- **Portfolio**: [GOT'EM](https://gotem.firststock.fr/))  
 - **Twitter**: [@alexandre_llce](https://twitter.com/alexandre_llce)  
-- **Discord**: [Join my server](https://discord.gg/your-invite-link)  
-- **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce)  
+- **Discord**: [Join my server]s(https://discord.gg/NHr6pSwrae))  
+- **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce) 
+
+
+
+
+<p align="center">
+  <img src="https://gotem.firststock.fr/" alt="Activity Graph" />
+</p> 
