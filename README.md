@@ -4,26 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0001ff&center=true&vCenter=true&width=800&height=45&lines=Reseller+%7C+Developer+%7C+Business+Student;Passionate+about+coding+and+reselling;Always+learning+and+creating..." />
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 20-year-old business student
-- 💼 Passionate about coding and reselling
-- 🛠️ Staff member at a French cook-group, providing info
-- 📦 Creator of **First Stock**, an app to manage stock more easily and quickly
+- 🎓 20-year-old business student  
+- 💼 Passionate about coding and reselling  
+- 🛠️ Staff member at a French cook group, providing valuable info  
+- 📦 Creator of **First Stock**, an app to manage stock efficiently and quickly  
 
 ---
 
 ### 🛠️ Skills & Specialties
 
-- **Languages**: Python, Node.js, HTML/CSS
-- **Specialties**: Monitors, Web Automations, 3D Animations, Botting
+- **Languages**: HTML/CSS, JavaScript, Python, Swift  
+- **Specialties**: Monitors, Web Automations, 3D Animations, Botting, App  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (all repositories private)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandreLlce&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
@@ -39,7 +38,7 @@
 
 ---
 
-### 🧠 Top Languages
+### 🧠 Top Languages (all repositories private)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLlce&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
@@ -57,11 +56,6 @@
 
 ### 📫 Contact Me
 
-- **Twitter**: [@alexandre_llce](https://twitter.com/alexandre_llce)
-- **Discord**: [Join my server](https://discord.gg/your-invite-link)
-- **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce)
-- **Revolut**: [Support Me](https://revolut.me/your-link)
-
----
-
-> ⚡ *Generated automatically – information updates with your GitHub activity.*
+- **Twitter**: [@alexandre_llce](https://twitter.com/alexandre_llce)  
+- **Discord**: [Join my server](https://discord.gg/your-invite-link)  
+- **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce)  
