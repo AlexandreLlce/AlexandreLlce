@@ -41,7 +41,7 @@
 ### 🧠 Top Languages (all repositories private)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLlce&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLlce&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
