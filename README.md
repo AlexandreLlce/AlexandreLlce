@@ -11,7 +11,7 @@
 - 🎓 20-year-old business student  
 - 💼 Passionate about coding and reselling  
 - 🛠️ Staff member at a French cook group, providing valuable info  
-- 📦 Creator of [**First Stock**](https://whop.com/first-stock/)), an app to manage stock efficiently and quickly  
+- 📦 Creator of [**First Stock**](https://whop.com/first-stock/), an app to manage stock efficiently and quickly  
 
 ---
 
