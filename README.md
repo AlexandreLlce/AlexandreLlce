@@ -57,6 +57,6 @@
 ### 📫 Contact Me
 
 - **Portfolio**: [GOT'EM](https://gotem.firststock.fr/)
+- **Discord**: [FirstStock](https://discord.gg/NHr6pSwrae)
 - **Twitter**: [@alexandre_llce](https://twitter.com/alexandre_llce)  
-- **Discord**: [Join my server](https://discord.gg/NHr6pSwrae)
 - **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce) 
