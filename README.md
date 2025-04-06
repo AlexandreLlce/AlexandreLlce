@@ -33,8 +33,7 @@
 ### 📊 GitHub Stats (all repositories private)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreLlce&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
-" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreLlce&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
