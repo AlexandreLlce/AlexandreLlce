@@ -49,7 +49,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreLlce&bg_color=0d1117&color=00e0ff&line=00e0ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreLlce&bg_color=00000000&color=006aff&line=006aff&point=006aff&area=flase&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
