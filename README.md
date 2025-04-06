@@ -58,12 +58,5 @@
 
 - **Portfolio**: [GOT'EM](https://gotem.firststock.fr/))  
 - **Twitter**: [@alexandre_llce](https://twitter.com/alexandre_llce)  
-- **Discord**: [Join my server]s(https://discord.gg/NHr6pSwrae))  
+- **Discord**: [Join my server](https://discord.gg/NHr6pSwrae))  
 - **GitHub**: [AlexandreLlce](https://github.com/AlexandreLlce) 
-
-
-
-
-<p align="center">
-  <img src="https://gotem.firststock.fr" alt="Activity Graph" />
-</p> 
